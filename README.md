@@ -37,3 +37,20 @@ Welcome to the HackSys Advanced XSS Exploitation Tool! This tool is designed for
 ```sh
 python xss_exploitation_tool.py -u <URL> -p <payloads_file> -o <output_file> --report <report_format> [options]
 
+Command-Line Arguments
+-u, --url: Single URL to scan.
+-l, --list: File containing a list of URLs to scan.
+-p, --payloads: File containing a list of payloads to use.
+-o, --output: File to save results.
+-a, --user-agent: User-Agent to use for requests (default: Mozilla/5.0).
+--headers: Additional headers to use for requests in key
+format, comma-separated.
+--rate-limit: Rate limit for requests per second (default: 5).
+-t, --threads: Number of concurrent threads (default: 5).
+-v, --verbose: Verbosity level (0-5, default: 1).
+--config: Configuration file in JSON format.
+--filter: Keyword filter for URLs.
+--report: Generate report in specified format (HTML, CSV, PDF).
+-up, --update: Update the tool to the latest version.
+
+
