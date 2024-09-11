@@ -1,3 +1,9 @@
+Ethical Use and Legal Compliance
+The HackSys Advanced XSS Exploitation Tool is a security tool designed for educational purposes and ethical testing only. By using this tool, you agree to abide by the following terms: 
+                     1. Authorization Required: You must have explicit permission from the owner or administrator of any system you are testing. Unauthorized scanning or testing of systems can be illegal and is considered unethical. Always ensure that you have the proper authorization before conducting any security testing.
+                     2. Responsibility: The creators of this tool are not responsible for any misuse or illegal activities conducted with it. By using this tool, you acknowledge that you are fully responsible for your actions and the legal implications that may arise.
+                     
+
 # hacksys_xss
 
 # HackSys Advanced XSS Exploitation Tool
