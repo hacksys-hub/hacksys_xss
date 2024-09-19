@@ -24,7 +24,7 @@ Welcome to the HackSys Advanced XSS Exploitation Tool! This tool is designed for
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/hacksys-xss-exploitation-tool.git
+    git clone https://github.com/hacksys-hub/hacksys_xss.git
     cd hacksys-xss-exploitation-tool
     ```
 
